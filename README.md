@@ -1,2 +1,2 @@
-# CS1410-Project-5
+# CS-Project-5
 C++ File I/O
